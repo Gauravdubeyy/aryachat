@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aryachat/static/css/main.1e60cf15.css",
+    "main.js": "/aryachat/static/js/main.321f1e5d.js",
+    "index.html": "/aryachat/index.html",
+    "main.1e60cf15.css.map": "/aryachat/static/css/main.1e60cf15.css.map",
+    "main.321f1e5d.js.map": "/aryachat/static/js/main.321f1e5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e60cf15.css",
+    "static/js/main.321f1e5d.js"
+  ]
+}
